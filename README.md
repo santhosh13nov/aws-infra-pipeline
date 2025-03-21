@@ -1,6 +1,10 @@
 
 # Welcome to your CDK Python project!
 
+npm install -g aws-cdk or brew install cdk
+
+cdk init app --language python
+
 This is a blank project for CDK development with Python.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
